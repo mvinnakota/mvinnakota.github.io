@@ -1,1 +1,0 @@
-# mvinnakota.github.io
