@@ -4,6 +4,6 @@ title: "Mythili Vinnakota"
 
 I am a PhD Candidate at the Harris School of Public Policy at the University of Chicago. I use applied microeconomics and empirical methods to better understand how households, firms, and governments insure themselves against natural disaster risks.
 
-I am on the 2023-2024 job market!
+I am on the 2023-2024 job market.
 
 <img src="files/me.jpg" style="width:50%">
