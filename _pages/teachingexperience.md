@@ -10,7 +10,7 @@ As a lifelong enthusiast for learning and teaching, I have taught, tutored, and 
 <br>
 
 <h4>Teaching Credits: </h4>
-<dl>
+
 <dt> Head Teaching Assistant, Statistics for Data Analysis I (MPP Course) </dt>
 <dd> Fall 2023; Fall 2021 </dd>
 <br>
@@ -32,4 +32,4 @@ As a lifelong enthusiast for learning and teaching, I have taught, tutored, and 
 <dt>  Teaching Assistant, Quantitative Methods in Social Sciences (BA Course) 
 <dd> Winter 2020 </dd>
 <br>
-</dl>
+
