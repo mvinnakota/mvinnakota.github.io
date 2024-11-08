@@ -5,23 +5,17 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "CV"
+    url: https://www.dropbox.com/scl/fi/fjeet9glar4vtzgpr9pya/Mythili_Curriculum_Vitae.pdf?rlkey=smimn0cdfy39styi7vofaxr2t&st=reuc0toa&dl=0
 
+  - title: "Research"
+    url: /portfolio/
+    
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Job Market Paper"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+
