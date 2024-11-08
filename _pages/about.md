@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Hello! 
 
 I am an environmental economist using applied microeconomics methods to better understand how households, firms, and governments insure themselves against natural disaster risks. I currently hold a position as an Economic Fellow at the Institute for Policy Integrity at NYU Law School, where I focus on climate risk topics. 
 
