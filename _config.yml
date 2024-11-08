@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Mythili's Academic Website"
+title                    : "Mythili's Academic Website"
 title_separator          : "-"
 name                     : &name "Mythili Vinnakota"
 description              : &description "Website"
@@ -21,12 +21,12 @@ repository               : "mvinnakota/mvinnakota.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "files/headshot.png"
   name             : "Mythili Vinnakota"
   pronouns         : # example: "she/her"  
   bio              : "Environmental economist studying climate risk and resilience"
   location         : "New York, New York"
-  employer         : "Institute for Policy Integrity, NYU Law School"
+  employer         : "NYU Law School"
   uri              : # URL
   email            : "mythili.vinnakota@nyu.edu" 
 
