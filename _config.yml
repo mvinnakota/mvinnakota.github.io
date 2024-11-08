@@ -21,7 +21,7 @@ repository               : "mvinnakota/mvinnakota.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "://images/headshot.jpeg"
+  avatar           : "://files/headshot.jpeg"
   name             : "Mythili Vinnakota"
   pronouns         : # example: "she/her"  
   bio              : "Environmental economist studying climate risk and resilience"
