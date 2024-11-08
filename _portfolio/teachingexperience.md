@@ -1,6 +1,6 @@
 ---
 title: "Teaching Experience"
-collection:portfolio
+collection: portfolio
 ---
 
 As a lifelong enthusiast for learning and teaching, I have taught, tutored, and mentored students for the past twelve years, all the way from middle school students learning algebra for the first time, to Masters students learning statistics for professional development. At UChicago, I served as a TA at all levels of undergraduate and graduate study, across the Economics and Public Policy departments. 
