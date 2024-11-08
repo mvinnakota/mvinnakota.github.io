@@ -2,13 +2,11 @@
 title: "Teaching"
 permalink: /teaching/
 ---
-
 As a lifelong enthusiast for learning and teaching, I have taught, tutored, and mentored students for the past twelve years, all the way from middle school students learning algebra for the first time, to Masters students learning statistics for professional development. At UChicago, I served as a TA at all levels of undergraduate and graduate study, across the Economics and Public Policy departments. 
-<br>
-<br>
+
 
 <h4>Teaching Credits: </h4>
-<dl>
+
 <dt> Head Teaching Assistant, Statistics for Data Analysis I (MPP Course) </dt>
 <dd> Fall 2023; Fall 2021 </dd>
 <br>
