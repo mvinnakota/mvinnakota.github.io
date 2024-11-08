@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mythili Vinnakota / Mythili Vinnakota"
+title                    : "Welcome to Mythili's Academic Website"
 title_separator          : "-"
 name                     : &name "Mythili Vinnakota"
-description              : &description "Mythili Vinnakota's Website"
+description              : &description "Website"
 url                      : https://mvinnakota.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mvinnakota/mvinnakota.github.io"
