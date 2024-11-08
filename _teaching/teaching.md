@@ -30,4 +30,4 @@ As a lifelong enthusiast for learning and teaching, I have taught, tutored, and 
 <dt>  Teaching Assistant, Quantitative Methods in Social Sciences (BA Course) 
 <dd> Winter 2020 </dd>
 <br>
-</dl>
+
