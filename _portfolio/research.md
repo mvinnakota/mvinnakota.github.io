@@ -7,7 +7,8 @@ collection: portfolio
 Here's some of my current research on flood policy instruments and hurricane impacts. Please contact me for any additional informaton about this work. 
 
 <h4>
-Levees: Infrastructure and Insurance as Adaptation to Flood Risk (joint with Anna Ziff)
+Levees: Infrastructure and Insurance as Adaptation to Flood Risk (joint with Anna Ziff) 
+  <br>
 Draft available on <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5236211">SSRN</a>
 </h4>
 
