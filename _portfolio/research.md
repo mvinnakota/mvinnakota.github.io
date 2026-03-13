@@ -4,7 +4,7 @@ excerpt: "Titles and abstracts of my current working papers "
 collection: portfolio
 ---
 
-Here's some of my current research on flood policies and hurricane impacts. Please contact me for any additional informaton about this work. 
+Here's some of my current research on flood policies and hurricane impacts. Please contact me for any additional information about this work. 
 
 <h3>
 Levees: Infrastructure and Insurance as Adaptation to Flood Risk (with Anna Ziff) 
