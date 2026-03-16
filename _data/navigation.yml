@@ -11,10 +11,11 @@ main:
 
   - title: "Research"
     url: /portfolio/research 
+
+ - title: "Policy Integrity"
+  url: "https://policyintegrity.org/about/bio/mythili-vinnakota"
     
   - title: "Teaching"
     url: /teachingexperience/    
 
-  - title: "Policy Integrity"
-  url: "https://policyintegrity.org/about/bio/mythili-vinnakota"
-
+ 
